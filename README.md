@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/damarakonda karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damarakonda karthik" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/damarakondakarthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damarakonda karthik" height="30" width="40" /></a>
 <a href="https://fb.com/karthik damarakonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="karthik damarakonda" height="30" width="40" /></a>
 <a href="https://instagram.com/karthikdamarakonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikdamarakonda" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/damarakonda karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="damarakonda karthik" height="30" width="40" /></a>
